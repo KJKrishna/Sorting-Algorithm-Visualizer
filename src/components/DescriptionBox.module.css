@@ -1,0 +1,26 @@
+.box {
+  background-color: #1a1e28;
+  color: #ffffff;
+  border: 1px solid #2e3a59;
+  padding: 16px;
+  border-radius: 12px;
+  box-shadow: 0 0 10px rgba(255, 165, 0, 0.1);
+  margin-top: 1rem;
+}
+
+.title {
+  color: #ffa500; /* Orange */
+  margin-bottom: 0.5rem;
+  font-size: 1.2rem;
+  font-weight: 600;
+}
+
+.description {
+  margin-bottom: 0.5rem;
+  color: #ddd;
+}
+
+.stats {
+  font-size: 0.95rem;
+  color: #ccc;
+}
